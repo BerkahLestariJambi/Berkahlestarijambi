@@ -7,6 +7,6 @@ Repositori BERKAH LESTARI JAYA. adalah sebuah aplikasi dalam Ekosistem Pi yang d
 Aplikasi ini dirancang dengan menggunakan ReactJS/JAvascript dan PHP Laravel. 
 
 Proyek LINK:
-( Mainnet Menanti OM )
+https://mainet.berkahlestarijaya.com ( Mainnet)
 
 https://tesnet.berkahlestarijaya.com ( Testnet )
