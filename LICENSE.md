@@ -1,6 +1,6 @@
 PiOS License
 
-Copyright (C) 2024 PT. BERKAH LESTARI JAMBI ( BLJ)
+Copyright (C) <2024 > BERKAH LESTARI JAMBI ( BLJ For Pi)
 
 Permission is hereby granted by the application software developer (“Software Developer”), free
 of charge, to any person obtaining a copy of this application, software and associated 
