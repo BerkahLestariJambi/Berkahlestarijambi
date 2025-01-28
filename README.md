@@ -7,6 +7,6 @@ Repositori BERKAH LESTARI JAMBI. adalah sebuah aplikasi dalam Ekosistem Pi yang 
 Aplikasi ini dirancang dengan menggunakan ReactJS/JAvascript dan PHP Laravel. 
 
 Proyek LINK:
-https://mainet.berkahlestarijaya.com (mainet)
+https://mainet.bljambi.com (mainet)
 
-https://tesnet.berkahlestarijaya.com (Testnet)
+https://testnet.bljambi.com (Testnet)
